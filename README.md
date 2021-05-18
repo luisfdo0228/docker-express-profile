@@ -74,7 +74,7 @@ endpoint to get a profile by email
 ## PUT 
 ### profile
 
-endpoint to create a profile
+endpoint to update a profile
 
 **POST** `/api/profile/60a3501d38e19a22769c90f4`
 
